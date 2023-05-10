@@ -1,12 +1,12 @@
 {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dbtedman/scrutinise/releases/download/0.0.8/scrutinise_0.0.8_windows_amd64.zip",
+            "url": "https://github.com/dbtedman/scrutinise/releases/download/0.0.9/scrutinise_0.0.9_windows_amd64.zip",
             "bin": [
                 "scrutinise.exe"
             ],
-            "hash": "ae0a1d4386fb023bca5ee8e6137f33df4672a06b79a46b072513e099e99b4f25"
+            "hash": "abaec3315bb06a62f0f6bc263526eaab17634fe2923e73ed07ee1c102f14d245"
         }
     },
     "homepage": "https://github.com/dbtedman/scrutinise",
