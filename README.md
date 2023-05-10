@@ -6,11 +6,20 @@
 
 ## How to get started?
 
-_Placeholder_
+```shell
+scoop bucket add dbtedman-scoop https://github.com/dbtedman/scoop-bucket
+```
 
 ## Available Apps
 
-_Placeholder_
+### [Scrutinise](./bucket/scrutinise.json)
+
+Automatically published
+by [Scrutinise Release Workflow](https://github.com/dbtedman/scrutinise/blob/main/.github/workflows/release.yml).
+
+```shell
+scoop install scrutinise
+```
 
 ## License
 
