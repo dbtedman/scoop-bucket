@@ -1,1 +1,15 @@
-{}
+{
+    "version": "0.0.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dbtedman/scrutinise/releases/download/0.0.8/scrutinise_0.0.8_windows_amd64.zip",
+            "bin": [
+                "scrutinise.exe"
+            ],
+            "hash": "ae0a1d4386fb023bca5ee8e6137f33df4672a06b79a46b072513e099e99b4f25"
+        }
+    },
+    "homepage": "https://github.com/dbtedman/scrutinise",
+    "license": "MIT",
+    "description": "Tool to scrutinise website development security."
+}
